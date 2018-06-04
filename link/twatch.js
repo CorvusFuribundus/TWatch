@@ -56,13 +56,13 @@ var TWatch = {
         // Any user here will be watched for a post (based on their name in-chat)
         // This is case-insensitive (e.g. "JaKebAThmAn" works for "jakebathman")
         watchTheseUsers: [
-            'jakebathman', 'drlupo',
+            'link__sen'
         ],
 
         // Any word here will be watched in any chat message
         // This is also case-insensitive
         watchTheseWords: [
-            'giveaway', 'twitch prime',
+            'link', 'Torey', 'Torie', 'Tory', 
         ],
 
         // By default, alerts will never auto-dismiss. This means you have to click each message to make it go away
